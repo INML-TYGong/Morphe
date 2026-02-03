@@ -24,16 +24,12 @@ Inspired by the recent success of vision foundation model (VFM), we strive to **
 
 Visual comparison between ***Morphe*** and H.265 when compressing 1080P HD video at 395kbps with 20% packet loss:
 
-<div align="center">  
-  <img src="https://img.shields.io/badge/You_can_click_the_videos_folder_in_the_left_file_tree_to_download_hd_comparison_videos-red?style=for-the-badge" alt="Download Notice">  
-</div>
-
 <div align="center">
-    <img src="videos/capybara.gif" width="auto" height="600px" />
+    <img src="images/capybara.gif" width="auto" height="600px" />
 </div>
 <br>
 <div align="center">
-    <img src="videos/lake.gif" width="auto" height="600px"/>
+    <img src="images/lake.gif" width="auto" height="600px"/>
 </div>
 
 ## 📌Frame Demo
